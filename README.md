@@ -1,7 +1,7 @@
 # 🏥 Hospital Management System
 
-A full-stack web-based Hospital Management System built using **Java (JSP + Servlets + JDBC)**.  
-This project helps hospitals manage patients, doctors, appointments, billing, and administrative tasks efficiently in a centralized system.
+A full-stack web-based **Hospital Management System Admin Panel** developed using **Java (JSP, Servlets, JDBC) and MySQL**.  
+This project focuses on managing core hospital data such as doctors, patients, appointments, and billing from a centralized admin dashboard.
 
 ---
 
